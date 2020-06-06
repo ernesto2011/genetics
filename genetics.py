@@ -1,6 +1,6 @@
 
 # el genset es de donde se obtienen los caractres  y letras para poder crear una ṕoblación aleatoria
-geneSet = 'abcdefghijklmnñopqrstuvwxyzABCDEFGHIJKLMNÑOPQRSTUVWXYZ,.! '
+geneSet = 'abcdefghijklmnñopqrstuvwxyzABCDEFGHIJKLMNÑOPQRSTUVWXYZ,.!=?:;123456789#$%/& '
 #el target es el texto objetivo a encontrar mediante un algoritmo genetico 
 target = input("ingrese el texto a encontrar:  ")
 
