@@ -17,7 +17,7 @@ para ejecutar las pruebas solo debes
 * abrir una terminal en linux y ejecutar el programa con python3 "nombredelarchivo".py
 * una vez que lo ejecutes te pedira que ingreses un texto, ingresas el texto enter
 es importante saber que acepta solo letras, numeros y algunos caractres como: "#$%?/&" si agrega otro que no este definido el programa 
-crasheara.
+buscara la solución mas optima que se acerque la resultado.
 * veras como arroja resultados la arrojara tres colmunas
 * con datos el primero sera el padre despues las filas siguientes son los hijos de padre, la segunda columna muestra las generaciones que tardo en en recrear a la frase y la ultima columna el tiempo que le tomo.
 
